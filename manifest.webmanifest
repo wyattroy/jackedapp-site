@@ -1,0 +1,1 @@
+{"name":"jackedapp","short_name":"jacked","start_url":"./","display":"standalone","background_color":"#f6f8f7","lang":"en","scope":"./","description":"A daily personal trainer that adapts to you.","theme_color":"#f6f8f7","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
